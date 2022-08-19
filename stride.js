@@ -3,7 +3,7 @@ window.onload = async () => {
         alert("Please install keplr extension");
     } else 
     await window.keplr.experimentalSuggestChain({
-    chainId: "STRIDE-TESTNET-2",
+    chainId: "STRIDE-TESTNET-4",
     chainName: "STRIDE",
     rpc: "http://77.37.176.99:25657", // replace with your rpc url
     rest: "http://77.37.176.99:2327", // replace with your rest api url
