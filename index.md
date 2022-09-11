@@ -1,5 +1,5 @@
-<script src="./stride.js"></script>
-## STRIDE keplr wallet integration
+<script src="./chronic.js"></script>
+## CHRONIC keplr wallet integration
 
 #### Requirements 
 [keplr wallet extension](https://google.com)
@@ -9,4 +9,4 @@
 2) In the network section choose STRIDE-TESTNET-4 network  
 3) That's it. Have fun:)  
 
-Manual installation available [by this link](https://github.com/zukaman/stride-keplr)
+Manual installation available [by this link](https://github.com/zukaman/s-keplr)
