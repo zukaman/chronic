@@ -6,7 +6,7 @@ window.onload = async () => {
     chainId: "morocco-1",
     chainName: "Chronic",
     rpc: "http://77.37.176.99:56657", // replace with your rpc url
-    rest: "http://77.37.176.99:33177", // replace with your rest api url
+    rest: "http://77.37.176.99:3317", // replace with your rest api url
     bip44: {
         coinType: 118,
     },
@@ -20,7 +20,7 @@ window.onload = async () => {
     },
     currencies: [ 
         { 
-            coinDenom: "Chronic", 
+            coinDenom: "CHT", 
             coinMinimalDenom: "ucht", 
             coinDecimals: 6, 
             coinGeckoId: "ucht", 
@@ -35,7 +35,7 @@ window.onload = async () => {
         },
     ],
     stakeCurrency: {
-        coinDenom: "Chronic",
+        coinDenom: "CHT",
         coinMinimalDenom: "ucht",
         coinDecimals: 6,
         coinGeckoId: "ucht",
